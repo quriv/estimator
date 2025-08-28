@@ -12,7 +12,7 @@ Please email us with:
 - Screenshots if possible
 
 ### Privacy Policy
-[View our Privacy Policy](privacy-policy.md)
+[View our Privacy Policy](privacy_policy.md)
 
 ### App Features
 - Enhances Estimation Game Tracking
