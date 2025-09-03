@@ -8,7 +8,7 @@ Email: [quriv.techteam@gmail.com](mailto:quriv.techteam@gmail.com)
 ### Delete Your Account
 To delete your account and all associated data, you have two options:
 
-1. **Contact Support**: Email us at [quriv.techteam@gmail.com](mailto:quriv.techteam@gmail.com) with your account details and we'll process your deletion request within 7 business days.
+1. **Contact Support**: Email us from your mapped email to your account and we'll process your deletion request within 7 business days.
 
 2. **In-App Deletion**: 
    - Go to your **Profile Page** in the app
